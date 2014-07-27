@@ -8,6 +8,8 @@ Written in different languages, because yes.
   - <https://www.hackerrank.com/contests/programming-interview-questions/challenges/balanced-delimiters>
 - Implementing a Queue with two stacks (JS - Node)
   - <https://www.interviewcake.com/question/queue-two-stacks>
+- Coin change problem (Ruby)
+  - <https://www.hackerrank.com/contests/programming-interview-questions/challenges/coin-change>
 
 
 
